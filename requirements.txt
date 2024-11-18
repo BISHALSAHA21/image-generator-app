@@ -1,0 +1,14 @@
+# File 1: requirements.txt
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
+diffusers
+transformers
+accelerate
+xformers==0.0.20
+nltk
+streamlit
+pillow
+numpy
+matplotlib
+
